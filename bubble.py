@@ -8,6 +8,6 @@ def bubble_sort(list):
 				list[i],list[j]=list[j],list[i]
 	return list
 lists = [2,5,1,3,7,4]
-print bubble_sort(lists)
+print (bubble_sort(lists))
 
 
